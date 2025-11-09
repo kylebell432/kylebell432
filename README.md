@@ -1,6 +1,6 @@
-<h1>Hi, I'm Kyle, an <a href="www.linkedin.com/in/kyle-bell-8871a82a2">
+<h1>Hi, I'm Kyle, an <a href="www.linkedin.com/in/kyle-bell-8871a82a2">IT Professional</a>
 
-IT Professional</a>
+
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
