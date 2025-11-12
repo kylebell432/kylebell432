@@ -8,7 +8,7 @@
   - [osTicket: Prerequisites and Installation](https://github.com/kylebell432/osticket-prereqs)
 - <b>Microsoft Azure</b>
   - [Microsoft Azure: Creating a Virual Machine](https://github.com/kylebell432/Creating-Virtual-Machines-in-Azure)
-
+  - [Microsoft Azure: Observing Traffic in a Computer](https://github.com/kylebell432/Observing-Computer-Traffic)
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
